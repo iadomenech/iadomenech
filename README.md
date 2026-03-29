@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Let's do it! </h1>
 
-<!--
-**iadomenech/iadomenech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I’m an enthusiast of randomness. Since the dawn of reason, humans have been obsessed with quantifying the unknown. We have the best tool ever created to measure the unknown: computers. To communicate with them, we have a variety of programming languages.</p>
+<p>On this GitHub, you’ll mainly find C and C++ code. The goal is purely educational, with typical exercises from Computational Physics, or code that illustrates the differences between C and C++.
+
+
+<div align="center">
+<img src="./images/fig_github.png" alt="200" height="300">
+</div>
+
+---
+
+## About me
+
+Right now, I work as a quant researcher. My research is based on the properties of solutions to the Kardar–Parisi–Zhang (KPZ) equation:
+
+$$
+\partial_t h(x,t)=\mu \nabla^2 h(x,t)+\frac{\lambda}{2}\left(\nabla h(x,t)\right)^2+\sqrt{D}\eta(x,t).
+$$
+
+More specifically, I work with different probabilistic models whose realizations — or trajectories, in the case of stochastic fields — fall into the KPZ universality class. In short: I build large-scale simulations and Monte Carlo methods to test my ideas
+
+As a side project, I work on algorithmic trading, building fractal models for third-party use and developing the full ecosystem. On the strategy side, I mainly focus on risk management techniques applied to portfolios of strategies developed by others. If you're interested, feel free to reach out on LinkedIn.
+
+<table align="center" cellspacing="10" cellpadding="0">
+  <tr>
+    <td valign="middle"><a href="https://www.linkedin.com/in/iadomenech" title="Perfil de LinkedIn"><img src="./images/linkedin.svg" alt="LinkedIn" width="28" height="28"></a></td>
+    <td valign="middle"><a href="https://www.linkedin.com/in/iadomenech">www.linkedin.com/in/iadomenech</a></td>
+  </tr>
+</table>
+
+---
+
+## List of repositories
+
+| Repository | Description |
+|:-----------|:------------|
+| **Repo 1** | Description:  |
+
+
