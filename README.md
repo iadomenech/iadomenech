@@ -34,10 +34,5 @@ As a side project, I work on algorithmic trading, building fractal models for th
 
 ---
 
-## List of repositories
-
-| Repository | Description |
-|:-----------|:------------|
-| **Repo 1** | Description:  |
 
 
