@@ -15,7 +15,7 @@
 
 ## About me
 
-Right now, I work as a quant researcher. My research is based on the properties of solutions to the Kardar–Parisi–Zhang (KPZ) equation:
+I am currently a researcher in probability theory and statistical physics. My research is based on the properties of solutions to the Kardar–Parisi–Zhang (KPZ) equation:
 
 $$
 \partial_t h(x,t)=\mu \nabla^2 h(x,t)+\frac{\lambda}{2}\left(\nabla h(x,t)\right)^2+\sqrt{D}\eta(x,t).
