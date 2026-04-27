@@ -4,7 +4,7 @@
 
 
 <p>I’m an enthusiast of randomness. Since the dawn of reason, humans have been obsessed with quantifying the unknown. We have the best tool ever created to measure the unknown: computers. To communicate with them, we have a variety of programming languages.</p>
-<p>On this GitHub, you’ll mainly find C and C++ code. The goal is purely educational, with typical exercises from Computational Physics, or code that illustrates the differences between C and C++.
+<p>On this GitHub, you’ll mainly find C++ code. The goal is purely educational, with typical exercises from Computational Physics.
 
 
 <div align="center">
