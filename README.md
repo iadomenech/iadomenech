@@ -23,7 +23,7 @@ $$
 
 More specifically, I work with different probabilistic models whose realizations — or trajectories, in the case of stochastic fields — fall into the KPZ universality class. In short: I build large-scale simulations and Monte Carlo methods to test my ideas
 
-As a side project, I work on algorithmic trading, building fractal models for third-party use and developing the full ecosystem. On the strategy side, I mainly focus on risk management techniques applied to portfolios of strategies developed by others. If you're interested, feel free to reach out on LinkedIn.
+As a side project, I work on algorithmic trading, building fractal models and developing the full ecosystem. On the strategy side, I mainly focus on risk management techniques applied to portfolios of strategies. If you're interested, feel free to reach out on LinkedIn.
 
 <table align="center" cellspacing="10" cellpadding="0">
   <tr>
